@@ -1,5 +1,5 @@
 # K-means clustering
-# Unsupervised learning technique
+## Unsupervised learning technique
 
 ### In the train, I will explore the application of K-means clustering, an unsupervised learning technique, to group data points based on similarities in their features. 
 
