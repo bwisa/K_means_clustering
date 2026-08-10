@@ -17,8 +17,8 @@ Three types of clustering:
 * **Hard Clustering**
 * **Hierarchical Clustering**
 * **Soft/Fuzzy Clustering**
-*
-* ## Conclusion
+
+## Conclusion
 
 Explore, demonstrate, practice and learn
 1. What clustering means,
